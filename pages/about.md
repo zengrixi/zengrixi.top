@@ -33,10 +33,10 @@ title: 关于我
 
   部分功能展示图：
 
-  <!-- ![toolimg1](https://zengrixi.github.io/static/img/rusume/toolimg1.png)
-  ![toolimg2](https://zengrixi.github.io/static/img/rusume/toolimg2.png) -->
-  ![toolimg3](https://zengrixi.github.io/static/img/rusume/toolimg3.png)
-  ![toolimg4](https://zengrixi.github.io/static/img/rusume/toolimg4.png)
+  <!-- ![toolimg1](https://github.com/zengrixi/zengrixi.top/blob/main/static/img/rusume/toolimg1.png)
+  ![toolimg2](https://github.com/zengrixi/zengrixi.top/blob/main/static/img/rusume/toolimg2.png) -->
+  ![toolimg3](https://github.com/zengrixi/zengrixi.top/blob/main/static/img/rusume/toolimg3.png)
+  ![toolimg4](https://github.com/zengrixi/zengrixi.top/blob/main/static/img/rusume/toolimg4.png)
 
 #### 迷你玩科技（深圳）有限公司（ 2021年7月 ~ 至今 ）
 
